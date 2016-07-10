@@ -1,0 +1,4 @@
+export PATH="/home/jdong3/local/bin:$PATH"
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/home/jdong3/local/lib:/home/jdong3/local/lib64:/usr/local/cuda/lib:/usr/local/cuda/lib64"
+echo $PATH
+echo $LD_LIBRARY_PATH
